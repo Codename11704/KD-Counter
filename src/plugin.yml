@@ -1,0 +1,10 @@
+main: com.sDroll.kdCounter.main
+name: kdCounter
+version: 0.0.1
+author: Codename_S
+
+commands:
+  deaths:
+
+  kills:
+
